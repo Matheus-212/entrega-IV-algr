@@ -16,6 +16,9 @@ entrega-IV-alg/
 │  ├── interface.h
 │  ├── config.h
 │  ├── cli.h
+│  ├── cli_parse.h
+│  ├── sort.h
+│  ├── query.h
 │  └── produtos.h
 ├── src/
 │  ├── datamanager.c
@@ -23,9 +26,12 @@ entrega-IV-alg/
 │  ├── interface.c
 │  ├── config.c
 │  ├── cli.c
+│  ├── sort.c
+│  ├── query.c
+│  ├── cli_find.c
+│  ├── cli_parse.c
 │  └── main.c
-├── .gitignore
-├── .gitattributes
+├── entrega.c
 ├── makefile
 └── README.md
 ```

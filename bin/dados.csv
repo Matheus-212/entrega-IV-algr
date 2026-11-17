@@ -1,0 +1,12 @@
+id, produto, categoria, valor, quantidade, fornecedor
+1, Resistor 100R 1/4W, Resistores, 0.15, 500, Multilaser
+2, Resistor 10K 1/4W, Resistores, 0.15, 450, Multilaser
+3, Capacitor Eletrolitico 10uF, Capacitores, 0.50, 200, Epcos
+4, Capacitor Ceramico 100nF, Capacitores, 0.30, 300, Vishay
+5, Diodo Retificador 1N4007, Diodos, 0.25, 400, Fairchild
+7, LED 5mm Vermelho, Semicondutores, 0.20, 350, Kingbright
+8, Transistor BC548, Transistores, 0.45, 250, ON Semi
+9, CI Regulat. Tensao 7805, CI, 1.80, 100, ST Micro
+10, Trimpot 10K, Resistores, 1.20, 80, Bourns
+6, mause, computador, 25.30, 2, Gui
+11, Nome, Categoria, 10.80, 20, Fornecedor
